@@ -1,0 +1,13 @@
+button {
+    background-color: chartreuse;
+    border: 0.1;
+    border-radius: 0px;
+    font-family: inherit;
+    color: #225;
+    box-shadow: 2px 2px 2px #000;
+    transition:  200ms ease-in-out;
+
+} 
+button:hover {
+    transform: scale(1.05);
+}
